@@ -1,0 +1,2 @@
+# application url for exercise 1.16
+https://heroku-example9.herokuapp.com/
